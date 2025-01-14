@@ -1,3 +1,5 @@
+# ⚠ This library will be completely deprecated in the future, as im working on a better library which supports both win32 and unix systems. ⚠
+
 # Lua NTFS
 
 A little module for interacting with the windows file system or NTFS
