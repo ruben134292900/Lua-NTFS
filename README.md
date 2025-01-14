@@ -1,4 +1,4 @@
-# ⚠ This library will be completely deprecated in the future, as im working on a better library which supports both win32 and unix systems. ⚠
+# ⚠ This library will be completely deprecated in the future, as im working on a better library. ⚠
 
 # Lua NTFS
 
